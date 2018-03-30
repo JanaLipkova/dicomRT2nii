@@ -37,7 +37,7 @@ addpath('../lib/dicm2nii')
 % iii) Read in the nifty volume to use the same structure for the RT plans
 
 % i) create nifty folder if it doesn't exist
-NiiDir     = [DICOMdir(1:end=),'_nifty/'];
+NiiDir     = [DICOMdir(1:end),'_nifty/'];
 NiiDirVol = [NiiDir,'Volume/'];
 NiiDirROI  = [NiiDir,'ROI/'];
 
