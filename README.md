@@ -1,9 +1,4 @@
-====================================
-
 Dicom-RT convertor to nii
-
-Author: Jana Lipkova
-===================================
 
 # Description:
 
